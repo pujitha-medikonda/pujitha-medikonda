@@ -1,4 +1,6 @@
 ## Hi there 👋
+- 🔭 I’m currently working in State of Indiana...
+- 🌱 I’m currently learning AZ400...
 
 <!--
 **pujitha-medikonda/pujitha-medikonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
